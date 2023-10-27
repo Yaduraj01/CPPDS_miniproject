@@ -22,6 +22,12 @@ Word frequency counter and storing it in hash tables.
    d. Print a new line to move to the next pair.
 9. End the program.
 
+## Input
+![image](https://github.com/Yaduraj01/CPPDS_miniproject/assets/110488113/c04591e3-7d96-4fc4-8cd8-2b90fc8ce1c7)
+
+
 ## Output
+![image](https://github.com/Yaduraj01/CPPDS_miniproject/assets/110488113/976a307b-e427-4f10-b7c4-3f1d6553a236)
+
 
 
