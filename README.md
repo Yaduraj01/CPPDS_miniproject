@@ -27,7 +27,8 @@ Word frequency counter and storing it in hash tables.
 
 
 ## Output
-![image](https://github.com/Yaduraj01/CPPDS_miniproject/assets/110488113/976a307b-e427-4f10-b7c4-3f1d6553a236)
+![image](https://github.com/Yaduraj01/CPPDS_miniproject/assets/110488113/46b7be68-ad0b-4704-962c-eb5c1004fca4)
+
 
 
 
